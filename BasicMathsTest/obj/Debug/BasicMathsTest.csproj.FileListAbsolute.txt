@@ -1,0 +1,7 @@
+C:\Project\VS2013\BasicMaths\BasicMathsTest\bin\Debug\BasicMathsTest.dll
+C:\Project\VS2013\BasicMaths\BasicMathsTest\bin\Debug\BasicMathsTest.pdb
+C:\Project\VS2013\BasicMaths\BasicMathsTest\bin\Debug\BasicMaths.dll
+C:\Project\VS2013\BasicMaths\BasicMathsTest\bin\Debug\BasicMaths.pdb
+C:\Project\VS2013\BasicMaths\BasicMathsTest\obj\Debug\BasicMathsTest.csprojResolveAssemblyReference.cache
+C:\Project\VS2013\BasicMaths\BasicMathsTest\obj\Debug\BasicMathsTest.dll
+C:\Project\VS2013\BasicMaths\BasicMathsTest\obj\Debug\BasicMathsTest.pdb

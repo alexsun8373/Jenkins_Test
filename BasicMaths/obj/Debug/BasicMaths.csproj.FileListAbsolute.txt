@@ -1,0 +1,4 @@
+C:\Project\VS2013\BasicMaths\BasicMaths\bin\Debug\BasicMaths.dll
+C:\Project\VS2013\BasicMaths\BasicMaths\bin\Debug\BasicMaths.pdb
+C:\Project\VS2013\BasicMaths\BasicMaths\obj\Debug\BasicMaths.dll
+C:\Project\VS2013\BasicMaths\BasicMaths\obj\Debug\BasicMaths.pdb
